@@ -1,5 +1,5 @@
 # GaltonBoard_WebGL
-GalatonBoard WebGl Version
+GalatonBoard
 https://www.youtube.com/watch?v=z-fm9hmXNtM&t=4s
 
 Play GalatonBoard WebGL Version. [Play URL](https://gondnetom.github.io/GaltonBoard_WebGL/)
